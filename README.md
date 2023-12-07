@@ -1,6 +1,9 @@
 ### Hi there 👋
+I'm a computer science and physics teacher and climate enthusiast 
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewdgroves)](https://github.com/matthewdgroves/github-readme-stats)
+
+[![Matthew's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matthewdgroves)](https://github.com/matthewdgroves/github-readme-stats)
 
 
 <!--
