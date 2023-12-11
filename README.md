@@ -3,9 +3,9 @@ Computer science and physics teacher, climate enthusiast
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewdgroves)](https://github.com/matthewdgroves/github-readme-stats)
 
-
+<!--
 [![Matthew's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matthewdgroves)](https://github.com/matthewdgroves/github-readme-stats)
-
+-->
 ![](https://komarev.com/ghpvc/?username=matthewdgroves)
 <!--
 **matthewdgroves/matthewdgroves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
